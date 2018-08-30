@@ -1,5 +1,5 @@
 # First-Projects
-First two programming projects 
+First two programming projects- Collaborated with Zay Tsu 
 
 Project 1: GUI for energy project evaluation
 #Mar 2018 – Apr 2018
