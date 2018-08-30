@@ -2,7 +2,8 @@
 First two programming projects- Collaborated with Zay Tsu 
 
 Project 1: GUI for energy project evaluation
-#Mar 2018 – Apr 2018
+Project Duration: Mar 2018 – Apr 2018
+File name: peval.rkt
 
 Project description: This racket program is built to analyze the economic condition of
 an oil well and determine its profitability. The major calculations
@@ -20,7 +21,8 @@ more user-friendly software.
 
 
 Project 2: Neato Robot Vacuum Cleaner Hack
-Mar 2018 – Apr 2018
+Project Duration: Mar 2018 – Apr 2018
+File name: final_C_project.c
 
 Project description: This C Program enables a robot to find a wall, follow a wall and
 escape through the door. In order to achieve this, a communication
