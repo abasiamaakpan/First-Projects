@@ -29,12 +29,11 @@ Project Duration: Mar 2018 – Apr 2018
 File name: final_C_project.c
 
 Project description: This C Program enables a robot to find a wall, follow a wall and
-escape through the door. In order to achieve this, a communication
+escape through the door using 3-D lidar sensor data. In order to achieve this, a communication
 protocol in a sense has to be established between computer and robot
-through a USB. In order to achieve this, files are written and read into
-the USB. In addition, a text file is created from the C program and data
+through a USB. In addition, a text file is created from the C program and data
 is visualized by reading and writing into this created file. The C program
-is also written to manipulate each line of data and parse the data in
+is also written to manipulate 3-D lidar sensor data
 order to allow the robot to make key decisions like calculating the
 distance of a door and avoid hitting an obstacle straight on. Some
 limitations of the robot are: Assuming the classroom is empty when the
