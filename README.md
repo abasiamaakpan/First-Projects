@@ -1,5 +1,5 @@
 # First-Projects
-### First two programming projects- Collaborated with Zay Tsu 
+### First two programming projects- Abasiama Akpan and Zay Tsu 
 
 ### Project 1: GUI for energy project evaluation
 
