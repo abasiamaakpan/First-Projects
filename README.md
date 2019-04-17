@@ -1,5 +1,5 @@
 # First-Projects
-### First two programming projects- Abasiama Akpan and Zay Tsu 
+### First two programming projects by Zay Tsu and Abasiama Akpan
 
 ### Project 1: GUI for energy project evaluation
 
